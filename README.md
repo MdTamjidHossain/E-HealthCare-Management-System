@@ -90,10 +90,17 @@ It integrates **database management**, **appointment booking**, and **email veri
 
 ### **5. Running the Application Using CMD**
 1. Open **Command Prompt**.
-2. Navigate to the project folder:
+2. Navigate to the project folder and type cmd in the address bar or use cd command to go to the project folder:
    ```bash
    cd path\to\project
-3. Compile the main files
+3. Compile all the main files
+   For example, for Loginpage.java
+   ```bash
+   javac Loginpage.java
+4. Run the application using Loginpage.java
+   ```bash
+   java Loginpage
+   
    
 ## 📩 Contact
 **Authors:**
