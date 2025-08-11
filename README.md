@@ -93,6 +93,7 @@ It integrates **database management**, **appointment booking**, and **email veri
 2. Navigate to the project folder:
    ```bash
    cd path\to\project
+3. Compile the main files
    
 ## 📩 Contact
 **Authors:**
